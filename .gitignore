@@ -1,0 +1,5 @@
+.firebase/
+.firebaserc
+firebase.json
+public/404.html
+public/index-old.html
