@@ -505,7 +505,31 @@ body, html {
     }
   }
 
-  
+  @media (max-width:375px)  {
+    .requirements-box{
+      right:18% !important;
+      position:absolute !important;
+      margin:auto !important;
+      margin-bottom:50px !important;
+      bottom:18px !important;
+    }
+  }
+
+  @media (max-width:320px)  {
+    .company-slogan{
+      font-size:17px;
+    }
+    .learn-more{
+      margin-top:64%;
+    }
+    .requirements-box{
+      right:12% !important;
+      position:absolute !important;
+      margin:auto !important;
+      margin-bottom:50px !important;
+      bottom:15px !important;
+    }
+  }
 
   h5.card-title{
     margin-top:10px;
